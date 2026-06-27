@@ -1,6 +1,6 @@
 import React from 'react'
 //import flag from './cop/images/icons/16.png'
-import './footer.css';
+import './Footer.css';
 function Footer() {
   return (
     <div>
